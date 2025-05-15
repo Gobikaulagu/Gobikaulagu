@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on Macchine learning project<br>- 🌱 I’m currently learning Machine learning<br>- 🤔 I’m looking for help with internship<br>- 📫 How to reach me: gobika.ulaganathan@gmail.com<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: Debug with flair, code with care!</p>
+<p align="left">- 🔭 I’m currently working on Machine learning project<br>- 🌱 I’m currently learning Machine learning<br>- 🤔 I’m looking for help with internship<br>- 📫 How to reach me: gobika.ulaganathan@gmail.com<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: Debug with flair, code with care!</p>
 
 ###
 
